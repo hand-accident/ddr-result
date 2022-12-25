@@ -1,0 +1,13 @@
+{
+  "name": "ddr-result",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hand_accident",
+  "license": "WTFPL",
+  "dependencies": {
+    "daisyui": "^2.46.0",
+    "tailwind": "^4.0.0"
+  }
+}

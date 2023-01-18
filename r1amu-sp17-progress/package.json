@@ -1,6 +1,6 @@
 {
   "name": "sp17-result",
-  "version": "2023.1.13",
+  "version": "2023.1.18",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "dev:css": "tailwindcss build style.postcss -o style_dev.css",
     "dev:css-minify": "cleancss -o style.min.css style_dev.css",
     "build": "run-s build:*",
-    "build:minify": "terser -c passes=10,unsafe,drop_console,hoist_vars,hoist_funs=true -m --toplevel -ecma 6 -o index.js -- index.js",
+    "build:minify": "terser -c passes=10,unsafe,drop_console,hoist_vars,hoist_funs=true -m --toplevel -ecma 2022 -o index.js -- index.js",
     "test": "run-s test:*",
     "test:display": "opener ./index.html"
   },

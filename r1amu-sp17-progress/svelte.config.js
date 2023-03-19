@@ -11,7 +11,8 @@ export const config = {
 		// adapter: adapter()
 		adapter: adapter({
 			pages: "build", assets: "build", fallback: null, precompress: false
-		})
+		}),
+		paths: { base: process.env.NODE_ENV === "production" ? "/ddr-result/r1amu-sp17-progress" : "" }
 	},
 	preprocess: [
 		vitePreprocess({

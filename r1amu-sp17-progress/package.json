@@ -1,11 +1,13 @@
 {
-	"name": "svelte",
+	"name": "svelte-r1amu-sp17",
 	"version": "0.0.1",
 	"private": true,
+	"homepage": "https://hand-accident.github.io/ddr-result/r1amu-sp17-progress/",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
-		"preview": "vite preview"
+		"preview": "vite preview",
+		"deploy": "npm run build && gh-pages -d build -m \"Updates --skip-ci\" -e \"r1amu-sp17-progress\" -t true"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.0.0",

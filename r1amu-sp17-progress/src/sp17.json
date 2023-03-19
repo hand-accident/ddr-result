@@ -95,7 +95,7 @@
                 310.0
             ]
         },
-        "highScore": 612460,
+        "highScore": 681170,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -119,11 +119,15 @@
                 667.0
             ]
         },
-        "highScore": null,
-        "isCleared": false,
+        "highScore": 750070,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 3,
+            "d": 17
+        },
         "alias": [
             "legend",
             "densetsu"
@@ -200,7 +204,7 @@
                 230.0
             ]
         },
-        "highScore": null,
+        "highScore": 288220,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -330,7 +334,7 @@
                 170.0
             ]
         },
-        "highScore": 254380,
+        "highScore": 320760,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -476,11 +480,15 @@
             "main": 180.0,
             "sub": []
         },
-        "highScore": null,
-        "isCleared": false,
+        "highScore": 697580,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 3,
+            "d": 19
+        },
         "alias": [
             "spanish"
         ],
@@ -758,7 +766,7 @@
             "main": 157.0,
             "sub": []
         },
-        "highScore": 641920,
+        "highScore": 674250,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1105,11 +1113,15 @@
                 120.0
             ]
         },
-        "highScore": 297520,
-        "isCleared": false,
+        "highScore": 742690,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2022,
+            "m": 7,
+            "d": 24
+        },
         "alias": [
             "newera",
             "nuera"
@@ -1378,7 +1390,7 @@
             "main": 169.0,
             "sub": []
         },
-        "highScore": 790110,
+        "highScore": 794950,
         "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,

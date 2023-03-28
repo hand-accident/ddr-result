@@ -1974,7 +1974,7 @@
         "note": []
     },
     {
-        "index": 1000001,
+        "index": 1155,
         "side": 0,
         "kind": 3,
         "dif": 17,
@@ -1994,6 +1994,53 @@
         },
         "alias": [
             "garland"
+        ],
+        "note": []
+    },
+    {
+        "index": 1158,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "Love Your Sense",
+        "bpm": {
+            "main": 175,
+            "sub": [
+                44,
+                88,
+                350
+            ]
+        },
+        "highScore": false,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "love"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000001,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "chaplet",
+        "bpm": {
+            "main": 200,
+            "sub": [
+                0,
+                100
+            ]
+        },
+        "highScore": false,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "chaplet"
         ],
         "note": []
     }

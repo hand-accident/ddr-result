@@ -2011,7 +2011,7 @@
                 350
             ]
         },
-        "highScore": false,
+        "highScore": null,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": false,
@@ -2034,7 +2034,7 @@
                 100
             ]
         },
-        "highScore": false,
+        "highScore": null,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": false,

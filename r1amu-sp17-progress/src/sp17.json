@@ -12,7 +12,7 @@
                 200.0
             ]
         },
-        "highScore": null,
+        "highScore": 444900,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -2037,7 +2037,7 @@
         "highScore": null,
         "isCleared": false,
         "isDeleted": false,
-        "isUnlocked": false,
+        "isUnlocked": true,
         "clearDay": null,
         "alias": [
             "chaplet"

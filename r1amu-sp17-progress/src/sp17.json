@@ -2038,11 +2038,15 @@
                 100
             ]
         },
-        "highScore": 737870,
-        "isCleared": false,
+        "highScore": 779190,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 4,
+            "d": 14
+        },
         "alias": [
             "chaplet"
         ],

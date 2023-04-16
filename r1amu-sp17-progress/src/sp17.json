@@ -1249,7 +1249,7 @@
                 85.0
             ]
         },
-        "highScore": 514590,
+        "highScore": 515380,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1471,7 +1471,7 @@
             "main": 205.0,
             "sub": []
         },
-        "highScore": null,
+        "highScore": 633720,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1542,11 +1542,15 @@
                 370.0
             ]
         },
-        "highScore": 470590,
-        "isCleared": false,
+        "highScore": 705540,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 4,
+            "d": 16
+        },
         "alias": [
             "evans"
         ],
@@ -1614,11 +1618,15 @@
                 450.0
             ]
         },
-        "highScore": null,
-        "isCleared": false,
+        "highScore": 703130,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 4,
+            "d": 16
+        },
         "alias": [
             "typhon",
             "taifu"
@@ -1769,7 +1777,7 @@
                 195.0
             ]
         },
-        "highScore": 829780,
+        "highScore": 838010,
         "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,

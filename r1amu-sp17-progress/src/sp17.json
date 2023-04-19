@@ -12,7 +12,7 @@
                 200.0
             ]
         },
-        "highScore": 444900,
+        "highScore": 605350,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -411,11 +411,15 @@
                 1021.0
             ]
         },
-        "highScore": 475840,
-        "isCleared": false,
+        "highScore": 707510,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 4,
+            "d": 19
+        },
         "alias": [
             "tohoku"
         ],

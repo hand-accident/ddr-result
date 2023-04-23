@@ -12,11 +12,15 @@
                 200.0
             ]
         },
-        "highScore": 625250,
-        "isCleared": false,
+        "highScore": 692590,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 4,
+            "d": 23
+        },
         "alias": [
             "faxx"
         ],
@@ -924,7 +928,7 @@
                 150.0
             ]
         },
-        "highScore": null,
+        "highScore": 58350,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1033,7 +1037,7 @@
                 310.0
             ]
         },
-        "highScore": null,
+        "highScore": 101740,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1253,11 +1257,15 @@
                 85.0
             ]
         },
-        "highScore": 515380,
+        "highScore": 741300,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 4,
+            "d": 23
+        },
         "alias": [
             "joki",
             "steam"
@@ -1652,7 +1660,7 @@
                 800.0
             ]
         },
-        "highScore": null,
+        "highScore": 485480,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -2061,6 +2069,26 @@
         },
         "alias": [
             "chaplet"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000002,
+        "side": 0,
+        "kind": 4,
+        "dif": 17,
+        "name": "Golden Arrow",
+        "bpm": {
+            "main": 170,
+            "sub": []
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "golden"
         ],
         "note": []
     }

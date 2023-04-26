@@ -212,7 +212,7 @@
                 230.0
             ]
         },
-        "highScore": 501820,
+        "highScore": 609100,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1433,7 +1433,7 @@
                 98.0
             ]
         },
-        "highScore": 796420,
+        "highScore": 812710,
         "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
@@ -2082,11 +2082,15 @@
             "main": 170,
             "sub": []
         },
-        "highScore": null,
-        "isCleared": false,
+        "highScore": 744590,
+        "isCleared": true,
         "isDeleted": false,
-        "isUnlocked": false,
-        "clearDay": null,
+        "isUnlocked": true,
+        "clearDay": {
+            "y": 2023,
+            "m": 4,
+            "d": 26
+        },
         "alias": [
             "golden"
         ],

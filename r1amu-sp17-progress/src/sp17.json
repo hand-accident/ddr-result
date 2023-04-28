@@ -212,11 +212,15 @@
                 230.0
             ]
         },
-        "highScore": 609100,
-        "isCleared": false,
+        "highScore": 677500,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 4,
+            "d": 28
+        },
         "alias": [
             "plufas"
         ],
@@ -1282,7 +1286,7 @@
             "main": 175.0,
             "sub": []
         },
-        "highScore": 622660,
+        "highScore": 681930,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,

@@ -346,7 +346,7 @@
                 170.0
             ]
         },
-        "highScore": 320760,
+        "highScore": 373750,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -782,11 +782,15 @@
             "main": 157.0,
             "sub": []
         },
-        "highScore": 674250,
-        "isCleared": false,
+        "highScore": 764490,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 5,
+            "d": 12
+        },
         "alias": [
             "rfh",
             "hawk"
@@ -1462,7 +1466,7 @@
             "main": 180.0,
             "sub": []
         },
-        "highScore": 737400,
+        "highScore": 772650,
         "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,

@@ -1672,11 +1672,15 @@
                 800.0
             ]
         },
-        "highScore": 524180,
-        "isCleared": false,
+        "highScore": 742820,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 5,
+            "d": 17
+        },
         "alias": [
             "tagmix",
             "tagmi"

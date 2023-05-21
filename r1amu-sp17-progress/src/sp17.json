@@ -1491,11 +1491,15 @@
             "main": 205.0,
             "sub": []
         },
-        "highScore": 633720,
-        "isCleared": false,
+        "highScore": 753210,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 5,
+            "d": 21
+        },
         "alias": [
             "deadlock",
             "dedlo"
@@ -1515,7 +1519,7 @@
                 400.0
             ]
         },
-        "highScore": 629290,
+        "highScore": 654320,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1805,7 +1809,7 @@
                 195.0
             ]
         },
-        "highScore": 838010,
+        "highScore": 848230,
         "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,

@@ -346,11 +346,15 @@
                 170.0
             ]
         },
-        "highScore": 373750,
-        "isCleared": false,
+        "highScore": 690470,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 5,
+            "d": 24
+        },
         "alias": [
             "london a",
             "la"
@@ -371,11 +375,15 @@
                 420.0
             ]
         },
-        "highScore": 228730,
-        "isCleared": false,
+        "highScore": 742400,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 5,
+            "d": 24
+        },
         "alias": [
             "london b",
             "lb"
@@ -394,11 +402,15 @@
                 170.0
             ]
         },
-        "highScore": 220480,
-        "isCleared": false,
+        "highScore": 726650,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 5,
+            "d": 24
+        },
         "alias": [
             "london c",
             "lc"
@@ -1045,7 +1057,7 @@
                 310.0
             ]
         },
-        "highScore": 101740,
+        "highScore": 177800,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,

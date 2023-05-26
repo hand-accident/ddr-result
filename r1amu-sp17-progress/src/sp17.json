@@ -948,7 +948,7 @@
                 150.0
             ]
         },
-        "highScore": 58350,
+        "highScore": 622430,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1057,7 +1057,7 @@
                 310.0
             ]
         },
-        "highScore": 177800,
+        "highScore": 215170,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1302,11 +1302,15 @@
             "main": 175.0,
             "sub": []
         },
-        "highScore": 681930,
-        "isCleared": false,
+        "highScore": 746470,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 5,
+            "d": 26
+        },
         "alias": [
             "alpaca",
             "alpacore"
@@ -1531,7 +1535,7 @@
                 400.0
             ]
         },
-        "highScore": 654320,
+        "highScore": 729940,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,

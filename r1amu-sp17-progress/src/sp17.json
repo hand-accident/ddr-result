@@ -948,11 +948,15 @@
                 150.0
             ]
         },
-        "highScore": 622430,
-        "isCleared": false,
+        "highScore": 714400,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 5,
+            "d": 28
+        },
         "alias": [
             "pasua",
             "pursuer"
@@ -1057,7 +1061,7 @@
                 310.0
             ]
         },
-        "highScore": 215170,
+        "highScore": 240700,
         "isCleared": false,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1536,10 +1540,14 @@
             ]
         },
         "highScore": 729940,
-        "isCleared": false,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 5,
+            "d": 28
+        },
         "alias": [
             "gaika"
         ],

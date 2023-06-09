@@ -1061,11 +1061,15 @@
                 310.0
             ]
         },
-        "highScore": 240700,
-        "isCleared": false,
+        "highScore": 649890,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 6,
+            "d": 9
+        },
         "alias": [
             "orca"
         ],

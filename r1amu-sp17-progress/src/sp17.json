@@ -1008,7 +1008,7 @@
                 0.0
             ]
         },
-        "highScore": 698950,
+        "highScore": 706640,
         "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1892,7 +1892,7 @@
         "highScore": 787880,
         "isCleared": true,
         "isDeleted": false,
-        "isUnlocked": false,
+        "isUnlocked": true,
         "clearDay": {
             "y": 2022,
             "m": 8,
@@ -1913,10 +1913,10 @@
             "main": 280.0,
             "sub": []
         },
-        "highScore": null,
+        "highScore": 574210,
         "isCleared": false,
         "isDeleted": false,
-        "isUnlocked": false,
+        "isUnlocked": true,
         "clearDay": null,
         "alias": [
             "ryoshi",
@@ -1936,11 +1936,15 @@
                 99.0
             ]
         },
-        "highScore": null,
-        "isCleared": false,
+        "highScore": 729810,
+        "isCleared": true,
         "isDeleted": false,
-        "isUnlocked": false,
-        "clearDay": null,
+        "isUnlocked": true,
+        "clearDay": {
+            "y": 2023,
+            "m": 6,
+            "d": 30
+        },
         "alias": [
             "glitter"
         ],

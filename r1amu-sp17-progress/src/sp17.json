@@ -2217,5 +2217,179 @@
             "breaking"
         ],
         "note": []
+    },
+    {
+        "index": 1000005,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "Aria",
+        "bpm": {
+            "main": 180,
+            "sub": [
+                90
+            ]
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "aria"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000006,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "Rise As One",
+        "bpm": {
+            "main": 180,
+            "sub": [
+                90
+            ]
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "rise"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000007,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "Drive Away",
+        "bpm": {
+            "main": 200,
+            "sub": [
+                100
+            ]
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "drive"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000008,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "Chromatic Burst",
+        "bpm": {
+            "main": 170,
+            "sub": []
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "chromatic",
+            "kroba"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000009,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "GLOW THE CROWN",
+        "bpm": {
+            "main": 180,
+            "sub": [
+                90
+            ]
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "grow",
+            "grocra"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000010,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "SMASH",
+        "bpm": {
+            "main": 160,
+            "sub": [
+                80,
+                320
+            ]
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "smash"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000011,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "Complete Game Victory",
+        "bpm": {
+            "main": 200,
+            "sub": []
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "comp",
+            "cgv"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000012,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "Abrupt Madness",
+        "bpm": {
+            "main": 185,
+            "sub": []
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "abrupt"
+        ],
+        "note": []
     }
 ]

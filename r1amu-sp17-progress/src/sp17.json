@@ -706,6 +706,26 @@
         "note": []
     },
     {
+        "index": "618",
+        "side": 0,
+        "kind": 4,
+        "dif": 17,
+        "name": "starmine",
+        "bpm": {
+            "main": 182,
+            "sub": []
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "starmine"
+        ],
+        "note": []
+    },
+    {
         "index": 646,
         "side": 0,
         "kind": 3,

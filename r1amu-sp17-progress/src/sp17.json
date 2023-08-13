@@ -1403,6 +1403,30 @@
         "note": []
     },
     {
+        "index": 916,
+        "side": 0,
+        "kind": 4,
+        "dif": 17,
+        "name": "Golden Arrow",
+        "bpm": {
+            "main": 170,
+            "sub": []
+        },
+        "highScore": 744590,
+        "isCleared": true,
+        "isDeleted": false,
+        "isUnlocked": true,
+        "clearDay": {
+            "y": 2023,
+            "m": 4,
+            "d": 26
+        },
+        "alias": [
+            "golden"
+        ],
+        "note": []
+    },
+    {
         "index": 918,
         "side": 0,
         "kind": 4,
@@ -2147,30 +2171,6 @@
         },
         "alias": [
             "chaplet"
-        ],
-        "note": []
-    },
-    {
-        "index": 916,
-        "side": 0,
-        "kind": 4,
-        "dif": 17,
-        "name": "Golden Arrow",
-        "bpm": {
-            "main": 170,
-            "sub": []
-        },
-        "highScore": 744590,
-        "isCleared": true,
-        "isDeleted": false,
-        "isUnlocked": true,
-        "clearDay": {
-            "y": 2023,
-            "m": 4,
-            "d": 26
-        },
-        "alias": [
-            "golden"
         ],
         "note": []
     },

@@ -1957,11 +1957,15 @@
             "main": 280.0,
             "sub": []
         },
-        "highScore": 617020,
-        "isCleared": false,
+        "highScore": 697670,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 8,
+            "d": 17
+        },
         "alias": [
             "ryoshi",
             "lint"

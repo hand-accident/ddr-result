@@ -2008,11 +2008,15 @@
             "main": 172.0,
             "sub": []
         },
-        "highScore": null,
-        "isCleared": false,
+        "highScore": 718480,
+        "isCleared": true,
         "isDeleted": false,
-        "isUnlocked": false,
-        "clearDay": null,
+        "isUnlocked": true,
+        "clearDay": {
+            "y": 2023,
+            "m": 8,
+            "d": 30
+        },
         "alias": [
             "perpara"
         ],

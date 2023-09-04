@@ -1096,6 +1096,31 @@
         "note": []
     },
     {
+        "index": 839,
+        "side": 0,
+        "kind": 4,
+        "dif": 17,
+        "name": "HAVE YOU NEVER BEEN MELLOW (20th Anniversary mix)",
+        "bpm": {
+            "main": 130.0,
+            "sub": []
+        },
+        "highScore": 774660,
+        "isCleared": true,
+        "isDeleted": false,
+        "isUnlocked": true,
+        "clearDay": {
+            "y": 2023,
+            "m": 9,
+            "d": 3
+        },
+        "alias": [
+            "havneva",
+            "soyo"
+        ],
+        "note": []
+    },
+    {
         "index": 854,
         "side": 0,
         "kind": 4,
@@ -1185,6 +1210,26 @@
         "alias": [
             "newera",
             "nuera"
+        ],
+        "note": []
+    },
+    {
+        "index": 863,
+        "side": 0,
+        "kind": 4,
+        "dif": 17,
+        "name": "SKY HIGH (20th Anniversary Mix)",
+        "bpm": {
+            "main": 145.0,
+            "sub": []
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "skyhi"
         ],
         "note": []
     },

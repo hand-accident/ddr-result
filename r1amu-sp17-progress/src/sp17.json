@@ -1223,11 +1223,15 @@
             "main": 145.0,
             "sub": []
         },
-        "highScore": null,
-        "isCleared": false,
+        "highScore": 793020,
+        "isCleared": true,
         "isDeleted": false,
-        "isUnlocked": false,
-        "clearDay": null,
+        "isUnlocked": true,
+        "clearDay": {
+            "y": 2023,
+            "m": 9,
+            "d": 10
+        },
         "alias": [
             "skyhi"
         ],
@@ -1298,7 +1302,7 @@
             "main": 175.0,
             "sub": []
         },
-        "highScore": 738760,
+        "highScore": 753690,
         "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1642,6 +1646,32 @@
         "alias": [
             "deadlock",
             "dedlo"
+        ],
+        "note": []
+    },
+    {
+        "index": 969,
+        "side": 0,
+        "kind": 4,
+        "dif": 17,
+        "name": "MUTEKI BUFFALO",
+        "bpm": {
+            "main": 176.0,
+            "sub": [
+                85.0
+            ]
+        },
+        "highScore": 706400,
+        "isCleared": true,
+        "isDeleted": false,
+        "isUnlocked": true,
+        "clearDay": {
+            "y": 2023,
+            "m": 9,
+            "d": 22
+        },
+        "alias": [
+            "ushi"
         ],
         "note": []
     },
@@ -2462,6 +2492,90 @@
         "clearDay": null,
         "alias": [
             "abrupt"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000000,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "DIABLOSIS::Nāga",
+        "bpm": {
+            "main": 200,
+            "sub": []
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "naga"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000001,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "Sparkle Dreams",
+        "bpm": {
+            "main": 180,
+            "sub": []
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "spadri"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000002,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "I-W-U (I Want U)",
+        "bpm": {
+            "main": 150,
+            "sub": []
+        },
+        "highScore": null,
+        "isCleared": false,
+        "isDeleted": false,
+        "isUnlocked": false,
+        "clearDay": null,
+        "alias": [
+            "iwu"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000003,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "パーフェクトイーター",
+        "bpm": {
+            "main": 175,
+            "sub": []
+        },
+        "highScore": 713800,
+        "isCleared": true,
+        "isDeleted": false,
+        "isUnlocked": true,
+        "clearDay": {
+            "y": 2023,
+            "m": 9,
+            "d": 10
+        },
+        "alias": [
+            "pafe"
         ],
         "note": []
     }

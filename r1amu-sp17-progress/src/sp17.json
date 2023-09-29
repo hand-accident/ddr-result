@@ -2240,10 +2240,10 @@
                 350
             ]
         },
-        "highScore": null,
+        "highScore": 484070,
         "isCleared": false,
         "isDeleted": false,
-        "isUnlocked": false,
+        "isUnlocked": true,
         "clearDay": null,
         "alias": [
             "love"

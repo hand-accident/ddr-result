@@ -1327,7 +1327,7 @@
             "main": 188.0,
             "sub": []
         },
-        "highScore": 717580,
+        "highScore": 718280,
         "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
@@ -1982,7 +1982,7 @@
                 195.0
             ]
         },
-        "highScore": 848230,
+        "highScore": 869350,
         "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
@@ -2231,7 +2231,7 @@
         "side": 0,
         "kind": 3,
         "dif": 17,
-        "name": "Love Your Sense",
+        "name": "Lose Your Sense",
         "bpm": {
             "main": 175,
             "sub": [
@@ -2240,13 +2240,17 @@
                 350
             ]
         },
-        "highScore": 484070,
-        "isCleared": false,
+        "highScore": 727290,
+        "isCleared": true,
         "isDeleted": false,
         "isUnlocked": true,
-        "clearDay": null,
+        "clearDay": {
+            "y": 2023,
+            "m": 10,
+            "d": 1
+        },
         "alias": [
-            "love"
+            "lose"
         ],
         "note": []
     },
@@ -2576,6 +2580,32 @@
         },
         "alias": [
             "pafe"
+        ],
+        "note": []
+    },
+    {
+        "index": 1000004,
+        "side": 0,
+        "kind": 3,
+        "dif": 17,
+        "name": "mathematical good-bye",
+        "bpm": {
+            "main": 182,
+            "sub": []
+        },
+        "highScore": 656970,
+        "isCleared": true,
+        "isDeleted": false,
+        "isUnlocked": true,
+        "clearDay": {
+            "y": 2023,
+            "m": 10,
+            "d": 1
+        },
+        "alias": [
+            "math",
+            "goodbye",
+            "bye"
         ],
         "note": []
     }
